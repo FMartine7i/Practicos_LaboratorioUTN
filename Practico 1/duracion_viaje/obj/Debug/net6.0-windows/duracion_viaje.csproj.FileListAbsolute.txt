@@ -1,0 +1,17 @@
+F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 1\duracion_viaje\bin\Debug\net6.0-windows\duracion_viaje.exe
+F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 1\duracion_viaje\bin\Debug\net6.0-windows\duracion_viaje.deps.json
+F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 1\duracion_viaje\bin\Debug\net6.0-windows\duracion_viaje.runtimeconfig.json
+F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 1\duracion_viaje\bin\Debug\net6.0-windows\duracion_viaje.dll
+F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 1\duracion_viaje\bin\Debug\net6.0-windows\duracion_viaje.pdb
+F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 1\duracion_viaje\obj\Debug\net6.0-windows\duracion_viaje.csproj.AssemblyReference.cache
+F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 1\duracion_viaje\obj\Debug\net6.0-windows\duracion_viaje.fDuracionViaje.resources
+F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 1\duracion_viaje\obj\Debug\net6.0-windows\duracion_viaje.csproj.GenerateResource.cache
+F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 1\duracion_viaje\obj\Debug\net6.0-windows\duracion_viaje.GeneratedMSBuildEditorConfig.editorconfig
+F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 1\duracion_viaje\obj\Debug\net6.0-windows\duracion_viaje.AssemblyInfoInputs.cache
+F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 1\duracion_viaje\obj\Debug\net6.0-windows\duracion_viaje.AssemblyInfo.cs
+F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 1\duracion_viaje\obj\Debug\net6.0-windows\duracion_viaje.csproj.CoreCompileInputs.cache
+F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 1\duracion_viaje\obj\Debug\net6.0-windows\duracion_viaje.dll
+F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 1\duracion_viaje\obj\Debug\net6.0-windows\refint\duracion_viaje.dll
+F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 1\duracion_viaje\obj\Debug\net6.0-windows\duracion_viaje.pdb
+F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 1\duracion_viaje\obj\Debug\net6.0-windows\duracion_viaje.genruntimeconfig.cache
+F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 1\duracion_viaje\obj\Debug\net6.0-windows\ref\duracion_viaje.dll
