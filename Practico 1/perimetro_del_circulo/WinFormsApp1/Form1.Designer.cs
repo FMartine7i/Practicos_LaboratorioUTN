@@ -40,7 +40,7 @@
             // bCalcularPerimetro
             // 
             bCalcularPerimetro.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
-            bCalcularPerimetro.Location = new Point(158, 217);
+            bCalcularPerimetro.Location = new Point(186, 217);
             bCalcularPerimetro.Name = "bCalcularPerimetro";
             bCalcularPerimetro.Size = new Size(112, 53);
             bCalcularPerimetro.TabIndex = 0;
@@ -88,7 +88,7 @@
             // bCalcularArea
             // 
             bCalcularArea.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
-            bCalcularArea.Location = new Point(355, 217);
+            bCalcularArea.Location = new Point(386, 217);
             bCalcularArea.Name = "bCalcularArea";
             bCalcularArea.Size = new Size(112, 53);
             bCalcularArea.TabIndex = 5;
@@ -109,7 +109,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(648, 332);
+            ClientSize = new Size(688, 332);
             Controls.Add(lIndicacion);
             Controls.Add(bCalcularArea);
             Controls.Add(tUnidad);

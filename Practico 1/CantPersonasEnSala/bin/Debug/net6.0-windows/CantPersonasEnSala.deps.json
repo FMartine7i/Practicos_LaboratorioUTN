@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CantPersonasEnSala/1.0.0": {
+        "dependencies": {
+          "CustomControls": "1.0.0"
+        },
+        "runtime": {
+          "CantPersonasEnSala.dll": {}
+        }
+      },
+      "CustomControls/1.0.0": {
+        "dependencies": {
+          "SumaNumEntero": "1.0.0"
+        },
+        "runtime": {
+          "CustomControls.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CantPersonasEnSala/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CustomControls/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
