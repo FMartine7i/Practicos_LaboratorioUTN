@@ -1,54 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0-windows7.0": {
-      "CustomControls/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "SumaNumEntero": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/CustomControls.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/CustomControls.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.WindowsDesktop.App.WindowsForms"
-        ]
-      },
-      "SumaNumEntero/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/SumaNumEntero.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/SumaNumEntero.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.WindowsDesktop.App.WindowsForms"
-        ]
-      }
-    }
+    "net6.0-windows7.0": {}
   },
-  "libraries": {
-    "CustomControls/1.0.0": {
-      "type": "project",
-      "path": "../../../Proyecto/CustomControls/CustomControls.csproj",
-      "msbuildProject": "../../../Proyecto/CustomControls/CustomControls.csproj"
-    },
-    "SumaNumEntero/1.0.0": {
-      "type": "project",
-      "path": "../SumaNumEntero/SumaNumEntero.csproj",
-      "msbuildProject": "../SumaNumEntero/SumaNumEntero.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0-windows7.0": [
-      "CustomControls >= 1.0.0"
-    ]
+    "net6.0-windows7.0": []
   },
   "packageFolders": {
     "C:\\Users\\Usuario\\.nuget\\packages\\": {}
@@ -76,11 +33,7 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
-          "projectReferences": {
-            "F:\\Usuario\\Documents\\Biblioteca\\Uni\\UTN\\Laboratorio\\Proyecto\\CustomControls\\CustomControls.csproj": {
-              "projectPath": "F:\\Usuario\\Documents\\Biblioteca\\Uni\\UTN\\Laboratorio\\Proyecto\\CustomControls\\CustomControls.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

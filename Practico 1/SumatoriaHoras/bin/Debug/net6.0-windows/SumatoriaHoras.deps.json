@@ -7,27 +7,14 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "SumatoriaHoras/1.0.0": {
-        "dependencies": {
-          "CustomControls": "1.0.0"
-        },
         "runtime": {
           "SumatoriaHoras.dll": {}
-        }
-      },
-      "CustomControls/1.0.0": {
-        "runtime": {
-          "CustomControls.dll": {}
         }
       }
     }
   },
   "libraries": {
     "SumatoriaHoras/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "CustomControls/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

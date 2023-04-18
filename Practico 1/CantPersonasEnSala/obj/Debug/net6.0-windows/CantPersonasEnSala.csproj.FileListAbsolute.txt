@@ -1,13 +1,8 @@
-F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 1\CantPersonasEnSala\bin\Debug\net6.0-windows\CustomControls.deps.json
-F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 1\CantPersonasEnSala\bin\Debug\net6.0-windows\CustomControls.runtimeconfig.json
-F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 1\CantPersonasEnSala\bin\Debug\net6.0-windows\CustomControls.exe
 F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 1\CantPersonasEnSala\bin\Debug\net6.0-windows\CantPersonasEnSala.exe
 F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 1\CantPersonasEnSala\bin\Debug\net6.0-windows\CantPersonasEnSala.deps.json
 F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 1\CantPersonasEnSala\bin\Debug\net6.0-windows\CantPersonasEnSala.runtimeconfig.json
 F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 1\CantPersonasEnSala\bin\Debug\net6.0-windows\CantPersonasEnSala.dll
 F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 1\CantPersonasEnSala\bin\Debug\net6.0-windows\CantPersonasEnSala.pdb
-F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 1\CantPersonasEnSala\bin\Debug\net6.0-windows\CustomControls.dll
-F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 1\CantPersonasEnSala\bin\Debug\net6.0-windows\CustomControls.pdb
 F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 1\CantPersonasEnSala\obj\Debug\net6.0-windows\CantPersonasEnSala.csproj.AssemblyReference.cache
 F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 1\CantPersonasEnSala\obj\Debug\net6.0-windows\CantPersonasEnSala.Form1.resources
 F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 1\CantPersonasEnSala\obj\Debug\net6.0-windows\CantPersonasEnSala.Properties.Resources.resources
@@ -16,7 +11,6 @@ F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 1\CantPe
 F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 1\CantPersonasEnSala\obj\Debug\net6.0-windows\CantPersonasEnSala.AssemblyInfoInputs.cache
 F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 1\CantPersonasEnSala\obj\Debug\net6.0-windows\CantPersonasEnSala.AssemblyInfo.cs
 F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 1\CantPersonasEnSala\obj\Debug\net6.0-windows\CantPersonasEnSala.csproj.CoreCompileInputs.cache
-F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 1\CantPersonasEnSala\obj\Debug\net6.0-windows\CantPersonasEnSala.csproj.CopyComplete
 F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 1\CantPersonasEnSala\obj\Debug\net6.0-windows\CantPersonasEnSala.dll
 F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 1\CantPersonasEnSala\obj\Debug\net6.0-windows\refint\CantPersonasEnSala.dll
 F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 1\CantPersonasEnSala\obj\Debug\net6.0-windows\CantPersonasEnSala.pdb

@@ -7,30 +7,14 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "sumatoriaCifras/1.0.0": {
-        "dependencies": {
-          "CustomControls": "1.0.0"
-        },
         "runtime": {
           "sumatoriaCifras.dll": {}
-        }
-      },
-      "CustomControls/1.0.0": {
-        "dependencies": {
-          "SumaNumEntero": "1.0.0"
-        },
-        "runtime": {
-          "CustomControls.dll": {}
         }
       }
     }
   },
   "libraries": {
     "sumatoriaCifras/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "CustomControls/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -15,9 +15,3 @@ F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 1\arena_
 F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 1\arena_necesaria\obj\Debug\net6.0-windows\arena_necesaria.genruntimeconfig.cache
 F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 1\arena_necesaria\obj\Debug\net6.0-windows\ref\arena_necesaria.dll
 F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 1\arena_necesaria\obj\Debug\net6.0-windows\arena_necesaria.fCantidadArena.resources
-F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 1\arena_necesaria\bin\Debug\net6.0-windows\CustomControls.deps.json
-F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 1\arena_necesaria\bin\Debug\net6.0-windows\CustomControls.runtimeconfig.json
-F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 1\arena_necesaria\bin\Debug\net6.0-windows\CustomControls.exe
-F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 1\arena_necesaria\bin\Debug\net6.0-windows\CustomControls.dll
-F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 1\arena_necesaria\bin\Debug\net6.0-windows\CustomControls.pdb
-F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 1\arena_necesaria\obj\Debug\net6.0-windows\arena_necesaria.csproj.CopyComplete

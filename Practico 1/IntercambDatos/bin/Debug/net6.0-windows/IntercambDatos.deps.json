@@ -7,27 +7,14 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "IntercambDatos/1.0.0": {
-        "dependencies": {
-          "CustomControls": "1.0.0"
-        },
         "runtime": {
           "IntercambDatos.dll": {}
-        }
-      },
-      "CustomControls/1.0.0": {
-        "runtime": {
-          "CustomControls.dll": {}
         }
       }
     }
   },
   "libraries": {
     "IntercambDatos/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "CustomControls/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

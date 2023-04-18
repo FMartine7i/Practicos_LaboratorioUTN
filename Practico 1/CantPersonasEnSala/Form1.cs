@@ -72,5 +72,14 @@ namespace CantPersonasEnSala
                 MessageBox.Show("La sala está vacía.", "Error");
             }
         }
+
+        //código sin condicional, con función Math.Max()
+        /*
+         private void bDecremento_Click(object sender, EventArgs e)
+        {
+            double cantidadActual = Convert.ToDouble(tCantidadActual.Text);
+            cantidadActual = Math.Max(0, cantidadActual - 1);
+            tCantidadActual.Text = cantidadActual.ToString();
+        }   */
     }
 }

@@ -39,7 +39,7 @@
             lmCubicos = new Label();
             lClose = new Label();
             bCalcular = new CustomControls.Controls.CustomButton();
-            customButton1 = new CustomControls.Controls.CustomButton();
+            bCerrar = new CustomControls.Controls.CustomButton();
             SuspendLayout();
             // 
             // lAncho
@@ -156,25 +156,25 @@
             bCalcular.UseVisualStyleBackColor = false;
             bCalcular.Click += bCalcular_Click;
             // 
-            // customButton1
+            // bCerrar
             // 
-            customButton1.BackColor = Color.FromArgb(138, 55, 175);
-            customButton1.BackgroundColor = Color.FromArgb(138, 55, 175);
-            customButton1.BorderColor = Color.FromArgb(0, 192, 192);
-            customButton1.BorderRadius = 20;
-            customButton1.BorderSize = 1;
-            customButton1.FlatAppearance.BorderSize = 0;
-            customButton1.FlatStyle = FlatStyle.Flat;
-            customButton1.Font = new Font("Century Gothic", 14.25F, FontStyle.Bold, GraphicsUnit.Point);
-            customButton1.ForeColor = Color.Plum;
-            customButton1.Location = new Point(421, 328);
-            customButton1.Name = "customButton1";
-            customButton1.Size = new Size(150, 40);
-            customButton1.TabIndex = 11;
-            customButton1.Text = "Cerrar";
-            customButton1.TextColor = Color.Plum;
-            customButton1.UseVisualStyleBackColor = false;
-            customButton1.Click += customButton1_Click;
+            bCerrar.BackColor = Color.FromArgb(138, 55, 175);
+            bCerrar.BackgroundColor = Color.FromArgb(138, 55, 175);
+            bCerrar.BorderColor = Color.FromArgb(0, 192, 192);
+            bCerrar.BorderRadius = 20;
+            bCerrar.BorderSize = 1;
+            bCerrar.FlatAppearance.BorderSize = 0;
+            bCerrar.FlatStyle = FlatStyle.Flat;
+            bCerrar.Font = new Font("Century Gothic", 14.25F, FontStyle.Bold, GraphicsUnit.Point);
+            bCerrar.ForeColor = Color.Plum;
+            bCerrar.Location = new Point(421, 328);
+            bCerrar.Name = "bCerrar";
+            bCerrar.Size = new Size(150, 40);
+            bCerrar.TabIndex = 11;
+            bCerrar.Text = "Cerrar";
+            bCerrar.TextColor = Color.Plum;
+            bCerrar.UseVisualStyleBackColor = false;
+            bCerrar.Click += customButton1_Click;
             // 
             // fCantidadArena
             // 
@@ -183,7 +183,7 @@
             AutoSize = true;
             BackColor = Color.FromArgb(45, 41, 50);
             ClientSize = new Size(801, 421);
-            Controls.Add(customButton1);
+            Controls.Add(bCerrar);
             Controls.Add(bCalcular);
             Controls.Add(lClose);
             Controls.Add(lmCubicos);
@@ -217,6 +217,6 @@
         private Label lmCubicos;
         private Label lClose;
         private CustomControls.Controls.CustomButton bCalcular;
-        private CustomControls.Controls.CustomButton customButton1;
+        private CustomControls.Controls.CustomButton bCerrar;
     }
 }
