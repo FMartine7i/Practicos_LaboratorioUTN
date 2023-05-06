@@ -1,0 +1,17 @@
+F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Proyecto\Movedizo\bin\Debug\net6.0-windows\Movedizo.exe
+F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Proyecto\Movedizo\bin\Debug\net6.0-windows\Movedizo.deps.json
+F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Proyecto\Movedizo\bin\Debug\net6.0-windows\Movedizo.runtimeconfig.json
+F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Proyecto\Movedizo\bin\Debug\net6.0-windows\Movedizo.dll
+F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Proyecto\Movedizo\bin\Debug\net6.0-windows\Movedizo.pdb
+F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Proyecto\Movedizo\obj\Debug\net6.0-windows\Movedizo.csproj.AssemblyReference.cache
+F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Proyecto\Movedizo\obj\Debug\net6.0-windows\Movedizo.FMovedizo.resources
+F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Proyecto\Movedizo\obj\Debug\net6.0-windows\Movedizo.csproj.GenerateResource.cache
+F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Proyecto\Movedizo\obj\Debug\net6.0-windows\Movedizo.GeneratedMSBuildEditorConfig.editorconfig
+F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Proyecto\Movedizo\obj\Debug\net6.0-windows\Movedizo.AssemblyInfoInputs.cache
+F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Proyecto\Movedizo\obj\Debug\net6.0-windows\Movedizo.AssemblyInfo.cs
+F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Proyecto\Movedizo\obj\Debug\net6.0-windows\Movedizo.csproj.CoreCompileInputs.cache
+F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Proyecto\Movedizo\obj\Debug\net6.0-windows\Movedizo.dll
+F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Proyecto\Movedizo\obj\Debug\net6.0-windows\refint\Movedizo.dll
+F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Proyecto\Movedizo\obj\Debug\net6.0-windows\Movedizo.pdb
+F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Proyecto\Movedizo\obj\Debug\net6.0-windows\Movedizo.genruntimeconfig.cache
+F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Proyecto\Movedizo\obj\Debug\net6.0-windows\ref\Movedizo.dll

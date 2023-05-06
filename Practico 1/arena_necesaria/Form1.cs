@@ -31,13 +31,13 @@ namespace arena_necesaria
         {
             double ancho = Convert.ToDouble(tAncho.Text);
             double alto = Convert.ToDouble(tAlto.Text);
-            double revoque_por_metro_cuadrado = Convert.ToDouble(tRevoque.Text);
+            double cantRevoque = Convert.ToDouble(tRevoque.Text);
 
             // Calcula el área de la pared
             double area = ancho * alto;
 
             // Calcula la cantidad de arena que se usará en total
-            double ArenaTotal = area * revoque_por_metro_cuadrado;
+            double ArenaTotal = area * cantRevoque;
 
             MessageBox.Show($"Se necesitarán {ArenaTotal} m^3 para una pared de área de {area} m^2", "Cálculo");
         }

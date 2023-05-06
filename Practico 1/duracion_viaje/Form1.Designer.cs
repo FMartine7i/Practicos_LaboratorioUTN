@@ -170,8 +170,7 @@
             Controls.Add(lClose);
             Font = new Font("Century Gothic", 9F, FontStyle.Regular, GraphicsUnit.Point);
             Name = "fDuracionViaje";
-            Text = "Form1";
-            Load += fDuracionViaje_Load;
+            Text = "Duración viaje";
             ResumeLayout(false);
             PerformLayout();
         }
