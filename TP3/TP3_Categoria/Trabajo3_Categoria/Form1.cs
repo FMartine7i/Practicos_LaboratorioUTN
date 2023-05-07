@@ -76,7 +76,7 @@ namespace Trabajo3_Categoria
                 {
                     cantQuerubin = int.Parse(valorActual);
                     cantQuerubin++;
-                    lCantQuerubin.Text = "Querubín: " + cantQuerubin.ToString();
+                    lCantQuerubin.Text = "Querubín: " + cantQuerubin.ToString("D2");
                 }
 
                 categoria = "Querubín";
@@ -97,7 +97,7 @@ namespace Trabajo3_Categoria
                 {
                     cantBenjamin = int.Parse(valorActual);
                     cantBenjamin++;
-                    lCantBenjamin.Text = "Benjamín: " + cantBenjamin.ToString();
+                    lCantBenjamin.Text = "Benjamín: " + cantBenjamin.ToString("D2");
                 }
 
                 categoria = "Benjamín";
@@ -120,7 +120,7 @@ namespace Trabajo3_Categoria
                 {
                     cantInfantil = int.Parse(valorActual);
                     cantInfantil++;
-                    lCantInfantil.Text = "Infantil: " + cantInfantil.ToString();
+                    lCantInfantil.Text = "Infantil: " + cantInfantil.ToString("D2");
                 }
             }
             else if (edad >= 13 && edad <= 15)
@@ -141,7 +141,7 @@ namespace Trabajo3_Categoria
                 {
                     cantCadete = int.Parse(valorActual);
                     cantCadete++;
-                    lCantCadete.Text = "Cadete: " + cantCadete.ToString();
+                    lCantCadete.Text = "Cadete: " + cantCadete.ToString("D2");
                 }
             }
             else if (edad >= 16 && edad <= 18)
@@ -162,7 +162,7 @@ namespace Trabajo3_Categoria
                 {
                     cantJuvenil = int.Parse(valorActual);
                     cantJuvenil++;
-                    lCantJuvenil.Text = "Juvenil: " + cantJuvenil.ToString();
+                    lCantJuvenil.Text = "Juvenil: " + cantJuvenil.ToString("D2");
                 }
             }
             else if (edad >= 19 && edad <= 30)
@@ -183,7 +183,7 @@ namespace Trabajo3_Categoria
                 {
                     cantAmateur = int.Parse(valorActual);
                     cantAmateur++;
-                    lCantAmateur.Text = "Amateur: " + cantAmateur.ToString();
+                    lCantAmateur.Text = "Amateur: " + cantAmateur.ToString("D2");
                 }
             }
             else if (edad > 30)
@@ -204,7 +204,7 @@ namespace Trabajo3_Categoria
                 {
                     cantVeterano = int.Parse(valorActual);
                     cantVeterano++;
-                    lCantVeteranos.Text = "Veteranos: " + cantVeterano.ToString();
+                    lCantVeteranos.Text = "Veteranos: " + cantVeterano.ToString("D2");
                 }
             }
             else
