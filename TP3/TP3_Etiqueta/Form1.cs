@@ -8,6 +8,7 @@ namespace TP3_Etiqueta
         public FEtiqueta()
         {
             InitializeComponent();
+            this.FormBorderStyle = FormBorderStyle.None;
         }
 
         private void FEtiqueta_Load(object sender, EventArgs e)

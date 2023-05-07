@@ -9,13 +9,6 @@ namespace Trabajo3_Categoria
 
         private void bIngresar_Click(object sender, EventArgs e)
         {
-            int cantQuerubin = 0;
-            int cantBenjamin = 0;
-            int cantInfantil = 0;
-            int cantCadete = 0;
-            int cantJuvenil = 0;
-            int cantAmateur = 0;
-            int cantVeteranos = 0;
             string nombre = tNombre.Text;
             string categoria = "";
             string apellido = tApellido.Text;
@@ -53,7 +46,7 @@ namespace Trabajo3_Categoria
                         numDia.Focus();
                     }
                     break;
-                case 3:
+                case 4:
                 case 6:
                 case 9:
                 case 11:
@@ -69,45 +62,150 @@ namespace Trabajo3_Categoria
 
             if (edad >= 3 && edad <= 5)
             {
+                string querubin = lCantQuerubin.Text;
+                string valorActual = querubin.Substring(10); // 11 es la posición de la primera cifra
+                int cantQuerubin;
+
+                if (valorActual.Length == 1)
+                {
+                    cantQuerubin = int.Parse(valorActual);
+                    cantQuerubin++;
+                    lCantQuerubin.Text = "Querubín: " + cantQuerubin.ToString();
+                }
+                else if (valorActual.Length == 2)
+                {
+                    cantQuerubin = int.Parse(valorActual);
+                    cantQuerubin++;
+                    lCantQuerubin.Text = "Querubín: " + cantQuerubin.ToString();
+                }
+
                 categoria = "Querubín";
-                cantQuerubin++;
-                lCantQuerubin.Text = $"Querubín: {cantQuerubin}.";
             }
             else if (edad >= 6 && edad <= 8)
             {
+                string benjamin = lCantBenjamin.Text;
+                string valorActual = benjamin.Substring(10);
+                int cantBenjamin;
+
+                if (valorActual.Length == 1)
+                {
+                    cantBenjamin = int.Parse(valorActual);
+                    cantBenjamin++;
+                    lCantBenjamin.Text = "Benjamín: " + cantBenjamin.ToString();
+                }
+                else if (valorActual.Length == 2)
+                {
+                    cantBenjamin = int.Parse(valorActual);
+                    cantBenjamin++;
+                    lCantBenjamin.Text = "Benjamín: " + cantBenjamin.ToString();
+                }
+
                 categoria = "Benjamín";
-                cantBenjamin++;
-                lCantBenjamin.Text = $"Benjamín: {cantBenjamin}.";
             }
             else if (edad >= 9 && edad <= 12)
             {
                 categoria = "Infantil";
-                cantInfantil++;
-                lCantInfantil.Text = $"Infantil: {cantInfantil}.";
+
+                string infantil = lCantInfantil.Text;
+                string valorActual = infantil.Substring(10);
+                int cantInfantil;
+
+                if (valorActual.Length == 1)
+                {
+                    cantInfantil = int.Parse(valorActual);
+                    cantInfantil++;
+                    lCantInfantil.Text = "Infantil: " + cantInfantil.ToString();
+                }
+                else if (valorActual.Length == 2)
+                {
+                    cantInfantil = int.Parse(valorActual);
+                    cantInfantil++;
+                    lCantInfantil.Text = "Infantil: " + cantInfantil.ToString();
+                }
             }
             else if (edad >= 13 && edad <= 15)
             {
                 categoria = "Cadete";
-                cantCadete++;
-                lCantCadete.Text = $"Cadete: {cantCadete}.";
+
+                string cadete = lCantCadete.Text;
+                string valorActual = cadete.Substring(8);
+                int cantCadete;
+
+                if (valorActual.Length == 1)
+                {
+                    cantCadete = int.Parse(valorActual);
+                    cantCadete++;
+                    lCantCadete.Text = "Cadete: " + cantCadete.ToString();
+                }
+                else if (valorActual.Length == 2)
+                {
+                    cantCadete = int.Parse(valorActual);
+                    cantCadete++;
+                    lCantCadete.Text = "Cadete: " + cantCadete.ToString();
+                }
             }
             else if (edad >= 16 && edad <= 18)
             {
                 categoria = "Juvenil";
-                cantJuvenil++;
-                lCantJuvenil.Text = $"Juvenil: {cantJuvenil}.";
+
+                string juvenil = lCantJuvenil.Text;
+                string valorActual = juvenil.Substring(9);
+                int cantJuvenil;
+
+                if (valorActual.Length == 1)
+                {
+                    cantJuvenil = int.Parse(valorActual);
+                    cantJuvenil++;
+                    lCantJuvenil.Text = "Juvenil: " + cantJuvenil.ToString();
+                }
+                else if (valorActual.Length == 2)
+                {
+                    cantJuvenil = int.Parse(valorActual);
+                    cantJuvenil++;
+                    lCantJuvenil.Text = "Juvenil: " + cantJuvenil.ToString();
+                }
             }
             else if (edad >= 19 && edad <= 30)
             {
                 categoria = "Amateur";
-                cantAmateur++;
-                lCantAmateur.Text = $"Amateur: {cantAmateur}.";
+
+                string amateur = lCantAmateur.Text;
+                string valorActual = amateur.Substring(9);
+                int cantAmateur;
+
+                if (valorActual.Length == 1)
+                {
+                    cantAmateur = int.Parse(valorActual);
+                    cantAmateur++;
+                    lCantAmateur.Text = "Amateur: " + cantAmateur.ToString();
+                }
+                else if (valorActual.Length == 2)
+                {
+                    cantAmateur = int.Parse(valorActual);
+                    cantAmateur++;
+                    lCantAmateur.Text = "Amateur: " + cantAmateur.ToString();
+                }
             }
             else if (edad > 30)
             {
                 categoria = "Veteranos";
-                cantVeteranos++;
-                lCantVeteranos.Text = $"Veteranos: {cantVeteranos}.";
+
+                string veterano = lCantVeteranos.Text;
+                string valorActual = veterano.Substring(11);
+                int cantVeterano;
+
+                if (valorActual.Length == 1)
+                {
+                    cantVeterano = int.Parse(valorActual);
+                    cantVeterano++;
+                    lCantVeteranos.Text = "Veteranos: " + cantVeterano.ToString();
+                }
+                else if (valorActual.Length == 2)
+                {
+                    cantVeterano = int.Parse(valorActual);
+                    cantVeterano++;
+                    lCantVeteranos.Text = "Veteranos: " + cantVeterano.ToString();
+                }
             }
             else
             {
@@ -134,6 +232,52 @@ namespace Trabajo3_Categoria
         private void bCancelar_Click(object sender, EventArgs e)
         {
             Close();
+        }
+
+        private Font originalFont;
+
+        private void label1_MouseEnter(object sender, EventArgs e)
+        {
+            originalFont = label1.Font; // guarda la fuente original del Label
+            label1.Font = new Font(originalFont.FontFamily, originalFont.Size + 2);
+        }
+
+        private void label1_MouseLeave(object sender, EventArgs e)
+        {
+            label1.Font = originalFont;
+        }
+
+        private void label2_MouseEnter(object sender, EventArgs e)
+        {
+            originalFont = label2.Font;
+            label2.Font = new Font(originalFont.FontFamily, originalFont.Size + 2);
+        }
+
+        private void label2_MouseLeave(object sender, EventArgs e)
+        {
+            label2.Font = originalFont;
+        }
+
+        private void label4_MouseEnter(object sender, EventArgs e)
+        {
+            originalFont = label4.Font;
+            label4.Font = new Font(originalFont.FontFamily, originalFont.Size + 2);
+        }
+
+        private void label4_MouseLeave(object sender, EventArgs e)
+        {
+            label4.Font = originalFont;
+        }
+
+        private void label3_MouseEnter(object sender, EventArgs e)
+        {
+            originalFont = label3.Font;
+            label3.Font = new Font(originalFont.FontFamily, originalFont.Size + 2);
+        }
+
+        private void label3_MouseLeave(object sender, EventArgs e)
+        {
+            label3.Font = originalFont;
         }
     }
 }

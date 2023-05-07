@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FCategoria));
             bIngresar = new Button();
             bCancelar = new Button();
             lNombre = new Label();
@@ -46,6 +47,10 @@
             lCantJuvenil = new Label();
             lCantAmateur = new Label();
             lCantVeteranos = new Label();
+            label1 = new Label();
+            label2 = new Label();
+            label3 = new Label();
+            label4 = new Label();
             ((System.ComponentModel.ISupportInitialize)numDia).BeginInit();
             ((System.ComponentModel.ISupportInitialize)numMes).BeginInit();
             ((System.ComponentModel.ISupportInitialize)numAnio).BeginInit();
@@ -193,9 +198,9 @@
             lCantBenjamin.ForeColor = Color.White;
             lCantBenjamin.Location = new Point(391, 174);
             lCantBenjamin.Name = "lCantBenjamin";
-            lCantBenjamin.Size = new Size(102, 21);
+            lCantBenjamin.Size = new Size(98, 21);
             lCantBenjamin.TabIndex = 11;
-            lCantBenjamin.Text = "Benjamín: 0.";
+            lCantBenjamin.Text = "Benjamín: 0";
             // 
             // lCantQuerubin
             // 
@@ -205,9 +210,9 @@
             lCantQuerubin.ForeColor = Color.White;
             lCantQuerubin.Location = new Point(389, 134);
             lCantQuerubin.Name = "lCantQuerubin";
-            lCantQuerubin.Size = new Size(104, 21);
+            lCantQuerubin.Size = new Size(100, 21);
             lCantQuerubin.TabIndex = 12;
-            lCantQuerubin.Text = "Querubín: 0.";
+            lCantQuerubin.Text = "Querubín: 0";
             // 
             // lCantInfantil
             // 
@@ -217,9 +222,9 @@
             lCantInfantil.ForeColor = Color.White;
             lCantInfantil.Location = new Point(391, 213);
             lCantInfantil.Name = "lCantInfantil";
-            lCantInfantil.Size = new Size(85, 21);
+            lCantInfantil.Size = new Size(81, 21);
             lCantInfantil.TabIndex = 13;
-            lCantInfantil.Text = "Infantil: 0.";
+            lCantInfantil.Text = "Infantil: 0";
             // 
             // lCantCadete
             // 
@@ -229,9 +234,9 @@
             lCantCadete.ForeColor = Color.White;
             lCantCadete.Location = new Point(391, 251);
             lCantCadete.Name = "lCantCadete";
-            lCantCadete.Size = new Size(93, 21);
+            lCantCadete.Size = new Size(89, 21);
             lCantCadete.TabIndex = 14;
-            lCantCadete.Text = "Cadete: 0.";
+            lCantCadete.Text = "Cadete: 0";
             // 
             // lCantJuvenil
             // 
@@ -241,9 +246,9 @@
             lCantJuvenil.ForeColor = Color.White;
             lCantJuvenil.Location = new Point(517, 136);
             lCantJuvenil.Name = "lCantJuvenil";
-            lCantJuvenil.Size = new Size(85, 21);
+            lCantJuvenil.Size = new Size(81, 21);
             lCantJuvenil.TabIndex = 15;
-            lCantJuvenil.Text = "Juvenil: 0.";
+            lCantJuvenil.Text = "Juvenil: 0";
             // 
             // lCantAmateur
             // 
@@ -253,9 +258,9 @@
             lCantAmateur.ForeColor = Color.White;
             lCantAmateur.Location = new Point(517, 174);
             lCantAmateur.Name = "lCantAmateur";
-            lCantAmateur.Size = new Size(102, 21);
+            lCantAmateur.Size = new Size(98, 21);
             lCantAmateur.TabIndex = 16;
-            lCantAmateur.Text = "Amateur: 0.";
+            lCantAmateur.Text = "Amateur: 0";
             // 
             // lCantVeteranos
             // 
@@ -265,19 +270,79 @@
             lCantVeteranos.ForeColor = Color.White;
             lCantVeteranos.Location = new Point(517, 212);
             lCantVeteranos.Name = "lCantVeteranos";
-            lCantVeteranos.Size = new Size(111, 21);
+            lCantVeteranos.Size = new Size(107, 21);
             lCantVeteranos.TabIndex = 17;
-            lCantVeteranos.Text = "Veteranos: 0.";
+            lCantVeteranos.Text = "Veteranos: 0";
+            // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.BackColor = Color.Transparent;
+            label1.Font = new Font("Century Gothic", 12.75F, FontStyle.Regular, GraphicsUnit.Point);
+            label1.ForeColor = Color.White;
+            label1.Location = new Point(278, 9);
+            label1.Name = "label1";
+            label1.Size = new Size(57, 21);
+            label1.TabIndex = 18;
+            label1.Text = "home";
+            label1.MouseEnter += label1_MouseEnter;
+            label1.MouseLeave += label1_MouseLeave;
+            // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.BackColor = Color.Transparent;
+            label2.Font = new Font("Century Gothic", 12.75F, FontStyle.Regular, GraphicsUnit.Point);
+            label2.ForeColor = Color.White;
+            label2.Location = new Point(369, 9);
+            label2.Name = "label2";
+            label2.Size = new Size(79, 21);
+            label2.TabIndex = 19;
+            label2.Text = "nosotros";
+            label2.MouseEnter += label2_MouseEnter;
+            label2.MouseLeave += label2_MouseLeave;
+            // 
+            // label3
+            // 
+            label3.AutoSize = true;
+            label3.BackColor = Color.Transparent;
+            label3.Font = new Font("Century Gothic", 12.75F, FontStyle.Regular, GraphicsUnit.Point);
+            label3.ForeColor = Color.White;
+            label3.Location = new Point(482, 9);
+            label3.Name = "label3";
+            label3.Size = new Size(46, 21);
+            label3.TabIndex = 20;
+            label3.Text = "club";
+            label3.MouseEnter += label3_MouseEnter;
+            label3.MouseLeave += label3_MouseLeave;
+            // 
+            // label4
+            // 
+            label4.AutoSize = true;
+            label4.BackColor = Color.Transparent;
+            label4.Font = new Font("Century Gothic", 12.75F, FontStyle.Regular, GraphicsUnit.Point);
+            label4.ForeColor = Color.White;
+            label4.Location = new Point(562, 9);
+            label4.Name = "label4";
+            label4.Size = new Size(64, 21);
+            label4.TabIndex = 21;
+            label4.Text = "ayuda";
+            label4.MouseEnter += label4_MouseEnter;
+            label4.MouseLeave += label4_MouseLeave;
             // 
             // FCategoria
             // 
             AcceptButton = bIngresar;
             AutoScaleDimensions = new SizeF(8F, 17F);
             AutoScaleMode = AutoScaleMode.Font;
-            BackgroundImage = Properties.Resources.BasketAppBackG;
+            BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             BackgroundImageLayout = ImageLayout.Stretch;
             CancelButton = bCancelar;
             ClientSize = new Size(762, 364);
+            Controls.Add(label4);
+            Controls.Add(label3);
+            Controls.Add(label2);
+            Controls.Add(label1);
             Controls.Add(lCantVeteranos);
             Controls.Add(lCantAmateur);
             Controls.Add(lCantJuvenil);
@@ -328,5 +393,9 @@
         private Label lCantJuvenil;
         private Label lCantAmateur;
         private Label lCantVeteranos;
+        private Label label1;
+        private Label label2;
+        private Label label3;
+        private Label label4;
     }
 }

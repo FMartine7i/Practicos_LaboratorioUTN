@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Usuario\\Documents\\Biblioteca\\Uni\\UTN\\Laboratorio\\Ejercicios\\123\\TP3_Etiqueta\\TP3_Etiqueta.csproj": {}
+    "F:\\Usuario\\Documents\\Biblioteca\\Uni\\UTN\\Laboratorio\\Ejercicios\\TP3\\TP3_Etiqueta\\TP3_Etiqueta.csproj": {}
   },
   "projects": {
-    "F:\\Usuario\\Documents\\Biblioteca\\Uni\\UTN\\Laboratorio\\Ejercicios\\123\\TP3_Etiqueta\\TP3_Etiqueta.csproj": {
+    "F:\\Usuario\\Documents\\Biblioteca\\Uni\\UTN\\Laboratorio\\Ejercicios\\TP3\\TP3_Etiqueta\\TP3_Etiqueta.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Usuario\\Documents\\Biblioteca\\Uni\\UTN\\Laboratorio\\Ejercicios\\123\\TP3_Etiqueta\\TP3_Etiqueta.csproj",
+        "projectUniqueName": "F:\\Usuario\\Documents\\Biblioteca\\Uni\\UTN\\Laboratorio\\Ejercicios\\TP3\\TP3_Etiqueta\\TP3_Etiqueta.csproj",
         "projectName": "TP3_Etiqueta",
-        "projectPath": "F:\\Usuario\\Documents\\Biblioteca\\Uni\\UTN\\Laboratorio\\Ejercicios\\123\\TP3_Etiqueta\\TP3_Etiqueta.csproj",
+        "projectPath": "F:\\Usuario\\Documents\\Biblioteca\\Uni\\UTN\\Laboratorio\\Ejercicios\\TP3\\TP3_Etiqueta\\TP3_Etiqueta.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "F:\\Usuario\\Documents\\Biblioteca\\Uni\\UTN\\Laboratorio\\Ejercicios\\123\\TP3_Etiqueta\\obj\\",
+        "outputPath": "F:\\Usuario\\Documents\\Biblioteca\\Uni\\UTN\\Laboratorio\\Ejercicios\\TP3\\TP3_Etiqueta\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
