@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Usuario\\Documents\\Biblioteca\\Uni\\UTN\\Laboratorio\\Proyecto\\Ejercicio3\\Ejercicio3.csproj": {}
+    "F:\\Usuario\\Documents\\Biblioteca\\Uni\\UTN\\Laboratorio\\Ejercicios\\Practico 2\\Ejercicio3\\Ejercicio3.csproj": {}
   },
   "projects": {
-    "F:\\Usuario\\Documents\\Biblioteca\\Uni\\UTN\\Laboratorio\\Proyecto\\Ejercicio3\\Ejercicio3.csproj": {
+    "F:\\Usuario\\Documents\\Biblioteca\\Uni\\UTN\\Laboratorio\\Ejercicios\\Practico 2\\Ejercicio3\\Ejercicio3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Usuario\\Documents\\Biblioteca\\Uni\\UTN\\Laboratorio\\Proyecto\\Ejercicio3\\Ejercicio3.csproj",
+        "projectUniqueName": "F:\\Usuario\\Documents\\Biblioteca\\Uni\\UTN\\Laboratorio\\Ejercicios\\Practico 2\\Ejercicio3\\Ejercicio3.csproj",
         "projectName": "Ejercicio3",
-        "projectPath": "F:\\Usuario\\Documents\\Biblioteca\\Uni\\UTN\\Laboratorio\\Proyecto\\Ejercicio3\\Ejercicio3.csproj",
+        "projectPath": "F:\\Usuario\\Documents\\Biblioteca\\Uni\\UTN\\Laboratorio\\Ejercicios\\Practico 2\\Ejercicio3\\Ejercicio3.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "F:\\Usuario\\Documents\\Biblioteca\\Uni\\UTN\\Laboratorio\\Proyecto\\Ejercicio3\\obj\\",
+        "outputPath": "F:\\Usuario\\Documents\\Biblioteca\\Uni\\UTN\\Laboratorio\\Ejercicios\\Practico 2\\Ejercicio3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",

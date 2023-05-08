@@ -15,26 +15,20 @@ namespace Ejercicio3
         {
             switch (this.BackColor.Name)
             {
-                case "White":
-                case "Black":
-                    this.BackColor = Color.Yellow;
+                case "Red": 
+                    this.BackColor = Color.Orange; 
                     break;
-                case "Red":
-                    this.BackColor = Color.Orange;
+                case "Blue": 
+                    this.BackColor = Color.Green; 
                     break;
-                case "Blue":
-                    this.BackColor = Color.Green;
+                case "Purple": 
+                    this.BackColor = Color.Black; 
                     break;
-                case "Orange":
-                    this.BackColor = Color.Yellow;
-                    break;
-                case "Green":
-                    this.BackColor = Color.Yellow;
-                    break;
-                case "Purple":
-                    this.BackColor = Color.Black;
+                default: 
+                    this.BackColor = Color.Yellow; 
                     break;
             }
+
 
             contadorAmarillo++;
 
@@ -46,23 +40,16 @@ namespace Ejercicio3
         {
             switch (this.BackColor.Name)
             {
-                case "White":
-                case "Black":
-                    this.BackColor = Color.Red;
-                    break;
                 case "Yellow":
                     this.BackColor = Color.Orange;
                     break;
                 case "Blue":
                     this.BackColor = Color.Purple;
                     break;
-                case "Orange":
+                case "Purple":
                     this.BackColor = Color.Red;
                     break;
-                case "Green":
-                    this.BackColor = Color.Black;
-                    break;
-                case "Purple":
+                default:
                     this.BackColor = Color.Red;
                     break;
             }
@@ -77,10 +64,6 @@ namespace Ejercicio3
         {
             switch (this.BackColor.Name)
             {
-                case "White":
-                case "Black":
-                    this.BackColor = Color.Blue;
-                    break;
                 case "Yellow":
                     this.BackColor = Color.Green;
                     break;
@@ -90,10 +73,7 @@ namespace Ejercicio3
                 case "Orange":
                     this.BackColor = Color.Black;
                     break;
-                case "Green":
-                    this.BackColor = Color.Blue;
-                    break;
-                case "Purple":
+                default:
                     this.BackColor = Color.Blue;
                     break;
             }

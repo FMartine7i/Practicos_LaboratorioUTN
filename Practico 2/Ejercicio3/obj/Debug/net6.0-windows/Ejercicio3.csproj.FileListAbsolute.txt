@@ -15,3 +15,20 @@ F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Proyecto\Ejercicio3\obj\Debu
 F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Proyecto\Ejercicio3\obj\Debug\net6.0-windows\Ejercicio3.pdb
 F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Proyecto\Ejercicio3\obj\Debug\net6.0-windows\Ejercicio3.genruntimeconfig.cache
 F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Proyecto\Ejercicio3\obj\Debug\net6.0-windows\ref\Ejercicio3.dll
+F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 2\Ejercicio3\bin\Debug\net6.0-windows\Ejercicio3.exe
+F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 2\Ejercicio3\bin\Debug\net6.0-windows\Ejercicio3.deps.json
+F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 2\Ejercicio3\bin\Debug\net6.0-windows\Ejercicio3.runtimeconfig.json
+F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 2\Ejercicio3\bin\Debug\net6.0-windows\Ejercicio3.dll
+F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 2\Ejercicio3\bin\Debug\net6.0-windows\Ejercicio3.pdb
+F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 2\Ejercicio3\obj\Debug\net6.0-windows\Ejercicio3.csproj.AssemblyReference.cache
+F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 2\Ejercicio3\obj\Debug\net6.0-windows\Ejercicio3.FColores.resources
+F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 2\Ejercicio3\obj\Debug\net6.0-windows\Ejercicio3.csproj.GenerateResource.cache
+F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 2\Ejercicio3\obj\Debug\net6.0-windows\Ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 2\Ejercicio3\obj\Debug\net6.0-windows\Ejercicio3.AssemblyInfoInputs.cache
+F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 2\Ejercicio3\obj\Debug\net6.0-windows\Ejercicio3.AssemblyInfo.cs
+F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 2\Ejercicio3\obj\Debug\net6.0-windows\Ejercicio3.csproj.CoreCompileInputs.cache
+F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 2\Ejercicio3\obj\Debug\net6.0-windows\Ejercicio3.dll
+F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 2\Ejercicio3\obj\Debug\net6.0-windows\refint\Ejercicio3.dll
+F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 2\Ejercicio3\obj\Debug\net6.0-windows\Ejercicio3.pdb
+F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 2\Ejercicio3\obj\Debug\net6.0-windows\Ejercicio3.genruntimeconfig.cache
+F:\Usuario\Documents\Biblioteca\Uni\UTN\Laboratorio\Ejercicios\Practico 2\Ejercicio3\obj\Debug\net6.0-windows\ref\Ejercicio3.dll
