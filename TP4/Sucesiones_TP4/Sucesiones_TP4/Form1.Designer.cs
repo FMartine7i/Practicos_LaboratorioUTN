@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FSucesiones));
             lTabla = new Label();
             LFibonacci = new Label();
             BTablaMultiplicar = new Button();
@@ -43,6 +44,7 @@
             NUDDesde = new NumericUpDown();
             NUDHasta = new NumericUpDown();
             NUDCada = new NumericUpDown();
+            label4 = new Label();
             ((System.ComponentModel.ISupportInitialize)NUDTabla).BeginInit();
             ((System.ComponentModel.ISupportInitialize)NUDFibonacci).BeginInit();
             ((System.ComponentModel.ISupportInitialize)NUDDesde).BeginInit();
@@ -225,13 +227,26 @@
             NUDCada.Size = new Size(43, 26);
             NUDCada.TabIndex = 14;
             // 
+            // label4
+            // 
+            label4.AutoSize = true;
+            label4.BackColor = Color.Transparent;
+            label4.Font = new Font("Century Gothic", 26.25F, FontStyle.Regular, GraphicsUnit.Point);
+            label4.Image = (Image)resources.GetObject("label4.Image");
+            label4.Location = new Point(409, 39);
+            label4.Name = "label4";
+            label4.Size = new Size(48, 42);
+            label4.TabIndex = 15;
+            label4.Text = "   ";
+            // 
             // FSucesiones
             // 
             AutoScaleDimensions = new SizeF(9F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            BackgroundImage = Properties.Resources.Back8;
+            BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             CancelButton = BCerrar;
             ClientSize = new Size(520, 617);
+            Controls.Add(label4);
             Controls.Add(NUDCada);
             Controls.Add(NUDHasta);
             Controls.Add(NUDDesde);
@@ -277,5 +292,6 @@
         private NumericUpDown NUDDesde;
         private NumericUpDown NUDHasta;
         private NumericUpDown NUDCada;
+        private Label label4;
     }
 }
