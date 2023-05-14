@@ -36,9 +36,9 @@
             lFecha = new Label();
             tNombre = new TextBox();
             tApellido = new TextBox();
-            numDia = new NumericUpDown();
-            numMes = new NumericUpDown();
-            numAnio = new NumericUpDown();
+            NUDDia = new NumericUpDown();
+            NUDMes = new NumericUpDown();
+            NUDAnio = new NumericUpDown();
             lCategorias = new Label();
             lCantBenjamin = new Label();
             lCantQuerubin = new Label();
@@ -51,9 +51,9 @@
             label2 = new Label();
             label3 = new Label();
             label4 = new Label();
-            ((System.ComponentModel.ISupportInitialize)numDia).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)numMes).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)numAnio).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)NUDDia).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)NUDMes).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)NUDAnio).BeginInit();
             SuspendLayout();
             // 
             // bIngresar
@@ -140,43 +140,43 @@
             tApellido.Size = new Size(172, 23);
             tApellido.TabIndex = 6;
             // 
-            // numDia
+            // NUDDia
             // 
-            numDia.BackColor = Color.FromArgb(112, 0, 76);
-            numDia.BorderStyle = BorderStyle.FixedSingle;
-            numDia.ForeColor = SystemColors.Window;
-            numDia.Location = new Point(179, 187);
-            numDia.Maximum = new decimal(new int[] { 31, 0, 0, 0 });
-            numDia.Name = "numDia";
-            numDia.Size = new Size(38, 23);
-            numDia.TabIndex = 7;
-            numDia.Value = new decimal(new int[] { 1, 0, 0, 0 });
+            NUDDia.BackColor = Color.FromArgb(112, 0, 76);
+            NUDDia.BorderStyle = BorderStyle.FixedSingle;
+            NUDDia.ForeColor = SystemColors.Window;
+            NUDDia.Location = new Point(179, 187);
+            NUDDia.Maximum = new decimal(new int[] { 31, 0, 0, 0 });
+            NUDDia.Name = "NUDDia";
+            NUDDia.Size = new Size(38, 23);
+            NUDDia.TabIndex = 7;
+            NUDDia.Value = new decimal(new int[] { 1, 0, 0, 0 });
             // 
-            // numMes
+            // NUDMes
             // 
-            numMes.BackColor = Color.FromArgb(112, 0, 76);
-            numMes.BorderStyle = BorderStyle.FixedSingle;
-            numMes.ForeColor = SystemColors.Window;
-            numMes.Location = new Point(234, 187);
-            numMes.Maximum = new decimal(new int[] { 12, 0, 0, 0 });
-            numMes.Minimum = new decimal(new int[] { 1, 0, 0, 0 });
-            numMes.Name = "numMes";
-            numMes.Size = new Size(38, 23);
-            numMes.TabIndex = 8;
-            numMes.Value = new decimal(new int[] { 1, 0, 0, 0 });
+            NUDMes.BackColor = Color.FromArgb(112, 0, 76);
+            NUDMes.BorderStyle = BorderStyle.FixedSingle;
+            NUDMes.ForeColor = SystemColors.Window;
+            NUDMes.Location = new Point(234, 187);
+            NUDMes.Maximum = new decimal(new int[] { 12, 0, 0, 0 });
+            NUDMes.Minimum = new decimal(new int[] { 1, 0, 0, 0 });
+            NUDMes.Name = "NUDMes";
+            NUDMes.Size = new Size(38, 23);
+            NUDMes.TabIndex = 8;
+            NUDMes.Value = new decimal(new int[] { 1, 0, 0, 0 });
             // 
-            // numAnio
+            // NUDAnio
             // 
-            numAnio.BackColor = Color.FromArgb(112, 0, 76);
-            numAnio.BorderStyle = BorderStyle.FixedSingle;
-            numAnio.ForeColor = SystemColors.Window;
-            numAnio.Location = new Point(289, 187);
-            numAnio.Maximum = new decimal(new int[] { 2030, 0, 0, 0 });
-            numAnio.Minimum = new decimal(new int[] { 1970, 0, 0, 0 });
-            numAnio.Name = "numAnio";
-            numAnio.Size = new Size(62, 23);
-            numAnio.TabIndex = 9;
-            numAnio.Value = new decimal(new int[] { 2000, 0, 0, 0 });
+            NUDAnio.BackColor = Color.FromArgb(112, 0, 76);
+            NUDAnio.BorderStyle = BorderStyle.FixedSingle;
+            NUDAnio.ForeColor = SystemColors.Window;
+            NUDAnio.Location = new Point(289, 187);
+            NUDAnio.Maximum = new decimal(new int[] { 2030, 0, 0, 0 });
+            NUDAnio.Minimum = new decimal(new int[] { 1970, 0, 0, 0 });
+            NUDAnio.Name = "NUDAnio";
+            NUDAnio.Size = new Size(62, 23);
+            NUDAnio.TabIndex = 9;
+            NUDAnio.Value = new decimal(new int[] { 2000, 0, 0, 0 });
             // 
             // lCategorias
             // 
@@ -351,9 +351,9 @@
             Controls.Add(lCantQuerubin);
             Controls.Add(lCantBenjamin);
             Controls.Add(lCategorias);
-            Controls.Add(numAnio);
-            Controls.Add(numMes);
-            Controls.Add(numDia);
+            Controls.Add(NUDAnio);
+            Controls.Add(NUDMes);
+            Controls.Add(NUDDia);
             Controls.Add(tApellido);
             Controls.Add(tNombre);
             Controls.Add(lFecha);
@@ -366,9 +366,9 @@
             Name = "FCategoria";
             Text = "Categorias";
             Load += FCategoria_Load;
-            ((System.ComponentModel.ISupportInitialize)numDia).EndInit();
-            ((System.ComponentModel.ISupportInitialize)numMes).EndInit();
-            ((System.ComponentModel.ISupportInitialize)numAnio).EndInit();
+            ((System.ComponentModel.ISupportInitialize)NUDDia).EndInit();
+            ((System.ComponentModel.ISupportInitialize)NUDMes).EndInit();
+            ((System.ComponentModel.ISupportInitialize)NUDAnio).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -382,9 +382,9 @@
         private Label lFecha;
         private TextBox tNombre;
         private TextBox tApellido;
-        private NumericUpDown numDia;
-        private NumericUpDown numMes;
-        private NumericUpDown numAnio;
+        private NumericUpDown NUDDia;
+        private NumericUpDown NUDMes;
+        private NumericUpDown NUDAnio;
         private Label lCategorias;
         private Label lCantBenjamin;
         private Label lCantQuerubin;
